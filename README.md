@@ -1,4 +1,5 @@
 RavaliSFDC
 ==========
 
-My first Repository
+My first Repository.
+Git Repository.
